@@ -1,1 +1,2 @@
-module.exports = require("./lib");
+import AnyFile from './lib/index.js';
+export { AnyFile };
